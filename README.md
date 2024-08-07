@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/893yt7.png"  />
+</div>
 
-<!--
-**LucasMesquitaAlc/LucasMesquitaAlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/LucasMesquitaAlc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h1 align="center">Opa👋 Lucas aqui!</h1>
+
+###
+
+<h3 align="left">Desenvolvedor Python com foco em Machine Learning e Data Manipulation</h3>
+
+###
+
+<p align="left">- 📚 Atualmente estudando mais sobre Python em geral, além de Data Science, como limpeza e manipulação de dados e DataViz!<br>- Fazendo projetos usando numpy, pandas e scikit-learn</p>
+
+###
+
+<h3 align="left">🛠 Ferramentas:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
+
+###
