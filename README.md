@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 📚 Atualmente estudando mais sobre Python em geral, além de Data Science, como limpeza e manipulação de dados e DataViz!<br>- Fazendo projetos usando numpy, pandas e scikit-learn</p>
+<p align="left">- 📚 Atualmente estudando mais sobre Python em geral, além de Data Science, como limpeza e manipulação de dados e DataViz!<br>- Fazendo projetos usando numpy, pandas e matplotlib</p>
 
 ###
 
