@@ -17,11 +17,11 @@
 ###
 
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img width="12" height="40" alt="jupyter-logo-png_seeklogo-354673" src="https://github.com/user-attachments/assets/538dd52d-63c9-4faf-a001-cbda73811230" />
-  <img width="12" />
+  <img width="40" height="40" alt="Jupyter_logo svg" src="https://github.com/user-attachments/assets/1285eb7c-9322-4ddb-b784-a1047a614c04" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
