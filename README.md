@@ -9,23 +9,23 @@
 ###
 
 ### 📂 Confira meus projetos!
-<h3 style="margin-bottom:4px;">
+<h4 style="margin-bottom:4px;">
       <strong>– Análise de Vendas da Olist</strong>
     <a href="https://github.com/LucasMesquitaAlc/analise-ecommerce-Olist"
    style="text-decoration:none; font-size:1.1em;">
   🔗
 </a>
-  </h3><p> 
+  </h4><p> 
   Análise exploratória buscando insights de vendas usando SQL e Python.
 </p>
 
-<h3 style="margin-bottom:4px;">
+<h4 style="margin-bottom:4px;">
       <strong>– Dashboard Pokémon</strong>
     <a href="https://github.com/LucasMesquitaAlc/Dashboard_Pokemon"
    style="text-decoration:none; font-size:1.1em;">
   🔗
 </a>
-  </h3><p>
+  </h4><p>
   Comparações estatísticas entre gerações e tipagens utilizando Streamlit..
 </p>
     
