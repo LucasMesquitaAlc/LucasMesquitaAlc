@@ -6,8 +6,10 @@
 
 <h3 align="left">🎓 Estudante de Computação | 📊 Foco em Análise de Dados e Python</h3>
 
-Estou aqui para compartilhar minha jornada de aprendizado, publicando projetos que criei para portfólio, estudos ou de trabalhos da faculdade😅<br>
-Atualmente estou estudando SQL avançado, Pandas e em breve Power BI
+Estou aqui para compartilhar minha jornada de aprendizado!<br>
+Publico projetos que criei para portfólio, estudos ou de trabalhos da faculdade😅
+
+### 📚 Estudando Atualmente Pandas, SQL avançado e Power BI
 
 ### 📂 Confira meus projetos!
 
