@@ -8,12 +8,19 @@
 
 ###
 
+### 📂 Confira meus projetos!
+  -  **[Análise de Vendas – Olist](https://github.com/LucasMesquitaAlc/analise-ecommerce-Olist)**  
+  Análise exploratória buscando insights de vendas usando SQL e Python.
+ **[Dashboard - Pokémon](https://github.com/LucasMesquitaAlc/Dashboard_Pokemon)**  
+  Comparações estatísticas entre gerações e tipagens com visualizações utilizando Streamlit.
+###
+
 <h3 align="left">🛠 Ferramentas:</h3>
 
 ###
 <div align="left">
   
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="40" height="40"/>
