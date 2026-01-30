@@ -9,11 +9,11 @@
 ###
 
 ### 📂 Confira meus projetos!
-—  **[Análise de Vendas – Olist](https://github.com/LucasMesquitaAlc/analise-ecommerce-Olist)**  
-  Análise exploratória buscando insights de vendas usando SQL e Python.
+–  **[Análise de Vendas – Olist](https://github.com/LucasMesquitaAlc/analise-ecommerce-Olist)**  
+    Análise exploratória buscando insights de vendas usando SQL e Python.
   
-— **[Dashboard - Pokémon](https://github.com/LucasMesquitaAlc/Dashboard_Pokemon)**  
-  Comparações estatísticas entre gerações e tipagens com visualizações utilizando Streamlit.
+– **[Dashboard - Pokémon](https://github.com/LucasMesquitaAlc/Dashboard_Pokemon)**  
+    Comparações estatísticas entre gerações e tipagens com visualizações utilizando Streamlit.
 ###
 
 <h3 align="left">🛠 Ferramentas:</h3>
