@@ -9,8 +9,6 @@
 Estou aqui para compartilhar minha jornada de aprendizado!<br>
 Publico projetos que criei para portfólio, estudos ou de trabalhos da faculdade😅
 
-### 📚 Estudando Atualmente Pandas, SQL avançado e Power BI
-
 ### 📂 Confira meus projetos!
 
 <strong>– Análise de Vendas da Olist</strong>
