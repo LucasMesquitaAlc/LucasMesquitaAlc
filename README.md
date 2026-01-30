@@ -6,26 +6,29 @@
 
 <h3 align="left">🎓 Estudante de Computação | 📊 Foco em Análise de Dados e Python</h3>
 
-###
+### 
+Estou aqui para compartilhar minha jornada de aprendizado!
+Publico projetos que criei para portfólio, estudos ou de trabalhos do ambiente acadêmico (Faculdade😅)
+Atualmente estou estudando SQL mais avançado, Pandas e em breve Power BI
 
 ### 📂 Confira meus projetos!
-<h4 style="margin-bottom:4px;">
-      <strong>– Análise de Vendas da Olist</strong>
+
+<strong>– Análise de Vendas da Olist</strong>
     <a href="https://github.com/LucasMesquitaAlc/analise-ecommerce-Olist"
    style="text-decoration:none; font-size:1.1em;">
   🔗
 </a>
-  </h4><p> 
+  <p> 
   Análise exploratória buscando insights de vendas usando SQL e Python.
 </p>
 
-<h4 style="margin-bottom:4px;">
-      <strong>– Dashboard Pokémon</strong>
+
+<strong>– Dashboard Pokémon</strong>
     <a href="https://github.com/LucasMesquitaAlc/Dashboard_Pokemon"
    style="text-decoration:none; font-size:1.1em;">
   🔗
 </a>
-  </h4><p>
+  <p>
   Comparações estatísticas entre gerações e tipagens utilizando Streamlit..
 </p>
     
