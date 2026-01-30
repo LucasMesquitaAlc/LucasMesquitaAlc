@@ -13,7 +13,10 @@
 ###
 <div align="left">
   
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="30"/>
+  <img loading="lazy" src="" width="30" height="30"/>
+  <img loading="lazy" src="" width="30" height="30"/>
+  <img loading="lazy" src="" width="30" height="30"/>
 </div>
 
 ###
