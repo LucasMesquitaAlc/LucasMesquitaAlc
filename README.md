@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Desenvolvedor Python com foco em Machine Learning e Data Manipulation</h3>
+<h3 align="left">🎓 Estudante de Computação | 📊 Foco em Análise de Dados e Python</h3>
 
 ###
 
@@ -34,4 +34,5 @@
   <a href="https://github.com/LucasMesquitaAlc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
